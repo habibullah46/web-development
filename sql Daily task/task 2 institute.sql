@@ -83,11 +83,22 @@
 --    (19, 20, 'B'),
 --    (20, 17, 'A')
 
-select s.S_name, c.C_name , e.Grade  from  students s  
-join Enrollments e
-on s.S_id = e.S_id
-join Courses c 
-on e.C_id = c.C_id
-where C_name = 'DATABase '
-order by Grade desc 
+--select s.S_name, c.C_name , e.Grade  from  students s  
+--join Enrollments e
+--on s.S_id = e.S_id
+--join Courses c 
+--on e.C_id = c.C_id
+--where C_name = 'DATABase '
+--group by s.S_id
+--order by Grade desc 
 
+--select s.S_id,s.S_name
+--from students s
+--group by s.S_id,s.S_name
+--having s.S_name = 'Ali Khan'
+select * from  shope
+--update shope
+--set p_name = 'myihpne'
+--where p_id = 3
+delete from shope
+where p_id = 3
