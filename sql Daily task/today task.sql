@@ -41,7 +41,7 @@ INSERT INTO Students VALUES
 (7, 'Mustafa', 1),
 (8, 'Khadija', 2),
 (9, 'Hassan', 3),
-(10, 'Sara', 1);
+(10, 'Sara', 1)
 
 -- Insert 10 values into Majors table
 INSERT INTO Majors VALUES
