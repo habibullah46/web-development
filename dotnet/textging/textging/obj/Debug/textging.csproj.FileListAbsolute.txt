@@ -1,0 +1,10 @@
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\bin\Debug\textging.exe.config
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\bin\Debug\textging.exe
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\bin\Debug\textging.pdb
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.csproj.AssemblyReference.cache
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.Form1.resources
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.Properties.Resources.resources
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.csproj.GenerateResource.cache
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.csproj.CoreCompileInputs.cache
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.exe
+C:\Users\Habib Khalqi\Desktop\web-development\dotnet\textging\textging\obj\Debug\textging.pdb
